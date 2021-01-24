@@ -6,4 +6,4 @@
 
 
 
-[Live Demo](https://praveenorugantitech-rolldice.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-roll-dice-reactjs/)
