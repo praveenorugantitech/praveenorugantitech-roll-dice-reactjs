@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-roll-dice-reactjs/static/css/main.2eac4acd.chunk.css",
+    "main.js": "/praveenorugantitech-roll-dice-reactjs/static/js/main.2a5f6aac.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-roll-dice-reactjs/static/js/runtime-main.511c46b9.js",
+    "static/js/2.2ec9af27.chunk.js": "/praveenorugantitech-roll-dice-reactjs/static/js/2.2ec9af27.chunk.js",
+    "index.html": "/praveenorugantitech-roll-dice-reactjs/index.html",
+    "static/js/2.2ec9af27.chunk.js.LICENSE.txt": "/praveenorugantitech-roll-dice-reactjs/static/js/2.2ec9af27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.511c46b9.js",
+    "static/js/2.2ec9af27.chunk.js",
+    "static/css/main.2eac4acd.chunk.css",
+    "static/js/main.2a5f6aac.chunk.js"
+  ]
+}
